@@ -13,9 +13,10 @@
  🖥️ I’m currently working on **Home** and learning **Chatting Application**
  </div>
 <div align="center"> 
-  <a href="mailto:itz.mehedihasan1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+  <a href="#" onclick="window.location.href='mailto:itz.mehedihasan1@gmail.com'; return false;">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
+</a>
+
   <a href="https://www.linkedin.com/in/itzmehedihasandev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
